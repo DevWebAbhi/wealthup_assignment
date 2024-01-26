@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-<img src='./wealthup_assignment//src/Assets/Assignment_Screenshot.JPG'/>
+<img src='./wealthup_assignment//src/Assets/ssr1.JPG'/>
 
-<img src='./wealthup_assignment//src//Assets/Screenshot2.JPG'/>
+<img src='./wealthup_assignment//src//Assets/ssr2.JPG'/>
 
 
 
@@ -13,7 +13,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/DevWebAbhi/Frontend-Intern-Assignment-For-Greenmentor.git
+   git clone https://github.com/DevWebAbhi/wealthup_assignment.git
 
 2. Install all required npm modules
     
@@ -23,4 +23,4 @@
 
    npm run start
 
-4. Deployed Link : https://frontend-intern-assignment-for-greenmentor.vercel.app/
+4. Deployed Link : https://wealthup-assignment-orcin.vercel.app/
