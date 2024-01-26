@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-<img src='./wealthup_assignment//src/Assets/ssr1.JPG'/>
+<img src='./src/Assets/ssr1.JPG'/>
 
-<img src='./wealthup_assignment//src//Assets/ssr2.JPG'/>
+<img src='./src/Assets/ssr2.JPG'/>
 
 
 
