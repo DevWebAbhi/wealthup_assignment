@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-<img src='./src/Assets/ssr1.JPG'/>
+<img src='./src/Assets/ssr1.JPG' style="width:200px;"/>
 
 <img src='./src/Assets/ssr2.JPG'/>
 
