@@ -2,9 +2,11 @@
 
 ## Screenshots
 
-<img src='./src/Assets/ssr1.JPG' style="width:200px;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+   <img src="./src/Assets/ssr1.JPG" style="width: 500px;" />
+   <img src="./src/Assets/ssr2.JPG" style="width: 500px;" />
+</div>
 
-<img src='./src/Assets/ssr2.JPG'/>
 
 
 
